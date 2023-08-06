@@ -1,0 +1,8 @@
+2023-08-06 05:16:44.918360 - Initialized conversion of CBT569
+2023-08-06 05:16:44.964733 - Received CBT.V505.FILE569.PDS from FILE569.XMI 
+2023-08-06 05:16:44.967076 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE569.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:16:44.968102 - Found $$$NOTES.txt (text/plain) in CBT.V505.FILE569.PDS, moved to PDS/$$$NOTES
+2023-08-06 05:16:44.969300 - Found @FILE568.txt (text/plain) in CBT.V505.FILE569.PDS, moved to PDS/@FILE568
+2023-08-06 05:16:44.970236 - Found @FILE569.txt (text/plain) in CBT.V505.FILE569.PDS, moved to PDS/@FILE569
+2023-08-06 05:16:44.971290 - Found GAMERULE.txt (text/plain) in CBT.V505.FILE569.PDS, moved to PDS/GAMERULE
+2023-08-06 05:16:44.971367 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
